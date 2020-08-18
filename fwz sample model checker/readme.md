@@ -4,7 +4,7 @@
 
 ### 8.11
 
-开始了解llvm，熟悉llvm IR，阅读与学习llvm pass的写法，一个入门![LLVM入门引导](https://zhuanlan.zhihu.com/p/122522485)。
+开始了解llvm，熟悉llvm IR，阅读与学习llvm pass的写法，一个入门[LLVM入门引导](https://zhuanlan.zhihu.com/p/122522485)。
 
 ### 8.18
 
