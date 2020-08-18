@@ -20,4 +20,4 @@
 
 #### 本周讨论总结：
 
-1、考虑比较llvm IR不同优化版本的CFG，sampling应用到判断llvm IR优化版本的不同。
+考虑比较llvm IR不同优化版本的CFG，sampling应用到判断llvm IR优化版本的不同。
