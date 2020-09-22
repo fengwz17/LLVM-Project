@@ -21,3 +21,7 @@
 #### 本周讨论总结：
 
 考虑比较llvm IR不同优化版本的CFG，sampling应用到判断llvm IR优化版本的不同。
+
+### 9.22
+
+good for sampling 性质，不做乘积
