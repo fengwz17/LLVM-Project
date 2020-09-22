@@ -24,4 +24,4 @@
 
 ### 9.22
 
-good for sampling 性质，不做乘积
+考虑 good for sampling 性质，不做乘积。
