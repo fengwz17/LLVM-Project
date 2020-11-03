@@ -25,3 +25,26 @@
 ### 9.22
 
 考虑 good for sampling 性质，不做乘积。
+
+### 11.3
+
+#### 1、函数调用怎么处理：
+
+Trace abstraction: 支不支持函数调用？调研
+
+SV-benchmark 往年工具怎么处理函数调用的，state-of-art
+
+#### 2、Dafny：
+	
+熟悉一下：功能，语言，验证的性质
+	
+##### Boogie：
+	
+CPA也用boogie，Ultimate Automizer也用boogie
+  
+性质已经内置到了C的前置后置条件，相当于直接验证了，搞清楚能搞定哪些性质
+  
+Boogie在它那里是什么角色？
+  
+搞清楚一些，让我们的工具定位更清楚：研究什么问题，算法，平台
+
