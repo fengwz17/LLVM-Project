@@ -68,11 +68,17 @@ Boogie在它那里是什么角色？
 Dafny调研报告: [11.18 Report](https://github.com/fengwz17/LLVM-Project/blob/master/11.18%20Survey%20of%20Dafny%20and%20related%20verification%20tools.pdf)
 
 Dafny相关资料：
+
 1 [Dafny main page](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/)
+
 2 [Dafny github](https://github.com/dafny-lang/dafny);
+
 3 [Dafny online guide](https://rise4fun.com/Dafny/tutorial/Guide);
+
 4 [Dafny reference manual](https://dafny-lang.github.io/dafny/DafnyReferenceManual/DafnyRef);
+
 5 [the Encoding of Dafny to Boogie2](https://www.microsoft.com/en-us/research/uploads/prod/2008/12/Dafny_krml190.pdf).
 
 Boogie:
+
 [This is Boogie2](https://www.microsoft.com/en-us/research/publication/this-is-boogie-2-2/?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fleino%2Fpapers%2Fkrml178.pdf).
