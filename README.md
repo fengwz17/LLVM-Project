@@ -1,7 +1,7 @@
 # LLVM Project
 llvm程序验证项目进展，讨论总结与计划
 
-# Sample-based model checker 项目每周进展与讨论总结
+## Sample-based model checker 项目每周进展与讨论总结
 
 这里简单列出每周进展与讨论总结重点，详细内容见每周文件
 
@@ -82,3 +82,20 @@ Dafny相关资料：
 Boogie:
 
 [This is Boogie2](https://www.microsoft.com/en-us/research/publication/this-is-boogie-2-2/?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fleino%2Fpapers%2Fkrml178.pdf).
+
+## [1.5](https://github.com/fengwz17/LLVM-Project/blob/master/1.5.md)
+
+#### llvm框架：
+
+* 调研一些相关工具和sv-comp，汇总资料，特点、优势、不足，我们如何改进；
+
+* 搭建llvm大框架，模块化，可扩展，设计架构，接口；
+
+#### 具体问题
+
+* 找到可以做的具体问题、性质，以之为主线，在框架下开发整合.
+
+
+
+
+
