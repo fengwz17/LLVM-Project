@@ -122,8 +122,20 @@ Boogie:
 
 * 调研sv comp的track
 
+## 1.19
 
+### 报告
+* SVCOMP调研：[svcomp categories](https://github.com/fengwz17/LLVM-Project/blob/master/1.19_svcomp.pdf).
 
+### 讨论
+
+* 熟悉seahorn，理解里面有意思的技术
+
+* termination文章，跑一下看看benchmark，以了解seahorn为主，后面指定开发计划，idea
+
+* 继续了解ai在seahorn怎么做的，ai工具的POPL文章[https://doi.org/10.1145/3371082](https://doi.org/10.1145/3371082) 看一下，考虑对大型程序的指针分析；
+
+* 读rl做程序分析的文章. [https://doi.org/10.1007/978-3-319-96145-3_12](https://doi.org/10.1007/978-3-319-96145-3_12)
 
 
 
